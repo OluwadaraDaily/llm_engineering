@@ -1,0 +1,6 @@
+gradio>=5.47.2,<6.0
+openai>=1.109.1
+pandas>=2.3.3
+plotly>=6.3.0
+python-dotenv>=1.1.1
+requests>=2.32.5
